@@ -1,5 +1,5 @@
 *** Definition ***
-Code for finding maximum number of colors for N2_vertex_coloring of K_regular graphs.
+Code for finding possible number of colors in N2_vertex_coloring of K_regular graphs.
 In all programs, "K" sets in program body. "N" is the number of vertices.
 
 *** Inputs ***
