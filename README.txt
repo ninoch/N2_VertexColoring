@@ -1,6 +1,6 @@
-*** Definition ***
-Code for finding possible number of colors in N2_vertex_coloring of K_regular graphs.
-In all programs, "K" sets in program body. "N" is the number of vertices.
+# *** Definition ***
+ # Code for finding possible number of colors in N2_vertex_coloring of K_regular graphs.
+ # In all programs, "K" sets in program body. "N" is the number of vertices.
 
 *** Inputs ***
 We obtained our inputs from http://www.mathe2.uni-bayreuth.de/markus/reggraphs.html .
